@@ -1,7 +1,6 @@
-package learning.tests;
+package learning.jUnit.tests;
 
 import methods.Sqrt;
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
